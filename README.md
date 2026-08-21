@@ -32,11 +32,31 @@ The proposed device incorporated:
 
 The design was intended to improve vertebral height restoration and stability while reducing risks associated with uncontrolled cement delivery.
 
+## Project Visuals
+
+### Proposed Spinal Device
+
+Model of the proposed balloon kyphoplasty device positioned within the L1 vertebra.
+
+![Proposed spinal device](figures/proposed-spinal-device.png)
+
+### FEM Model
+
+Cross-sectional model showing the vertebra, balloon tamp, stent and bone cement used for the finite element analysis.
+
+![FEM model cross-section](figures/fem-model-cross-section.png)
+
+### FEM Validation Result
+
+Total deformation result from the FEM analysis under the applied compressive loading condition.
+
+![FEM total deformation](figures/fem-total-deformation.png)
+
 ## Initial Validation
 
 Finite Element Method analysis was used to assess deformation and structural behaviour under loading.
 
-The reported FEM analysis produced a deformation of approximately **0.0033 mm**.
+The FEM simulation produced a maximum total deformation of **0.0034041 mm** under the applied compressive loading condition. :contentReference[oaicite:1]{index=1}
 
 ## Key Considerations
 
@@ -66,6 +86,13 @@ The project considered:
 - Technical communication
 - Teamwork and design development
 
+## Literature Review
+
+As part of the project, I conducted an individual critical review of the state of the art in fracture fixation. The review examined current fixation methods, biomaterials, bone grafts, challenges affecting fracture healing, experimental testing of fixation devices, and emerging technologies.
+
+The review identified persistent challenges including non-union, stress shielding, implant failure and infection, while highlighting the need for improved biomaterials, fixation strategies and long-term validation. These findings provided broader clinical and engineering context for the subsequent spinal implant design work.
+
 ## Project Materials
 
-- [View Project Report](./spinal-implant-design-report.pdf)
+- [View Literature Review](./fracture-fixation-literature-review.pdf)
+- [View Spinal Implant Design Report](./spinal-implant-design-report.pdf)
