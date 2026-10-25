@@ -1,98 +1,36 @@
-# Spinal Implant Design
+# Spinal Implant Design for Metastatic Spinal Cord Compression
 
-## Overview
+Our design brief was a 40-year-old woman with late-stage breast cancer that had spread to her spine, causing pain, reduced sensation and impaired mobility. We designed a new balloon kyphoplasty device to stabilise her spine more safely.
 
-Biomedical device development project focused on designing a novel balloon kyphoplasty device for the treatment of metastatic spinal cord compression (MSCC) in a patient with late-stage breast cancer.
+**Group coursework (team of six) plus an individual literature review · Biomedical Device Development · Queen Mary University of London, 2024–25**
 
-## Project Aim
+## What we did
 
-The project aimed to develop a safer and more effective spinal intervention that could restore vertebral height and spinal stability while addressing complications associated with conventional balloon kyphoplasty, including cement leakage and thrombosis.
+Balloon kyphoplasty restores the height of a collapsed vertebra by inflating a balloon inside it and filling the space with bone cement. The standard procedure carries risks, including cement leaking out of the bone and blood clots. As a team, we worked through the clinical need, developed and scored several concepts against design criteria, and settled on a device with:
 
-## My Work
+- a biodegradable balloon made from PLGA copolymer or PLA
+- aerosolised spray delivery of the bone cement, for more control
+- a hydrogel coating on the balloon
+- a stainless-steel stent to hold the vertebra in place
 
-As part of the design team, I contributed to:
+We considered materials, manufacturing, patient comfort, risks, and regulatory and ethical requirements, and tested the design with a finite element model of the device inside the L1 vertebra.
 
-- Investigating the clinical requirements and challenges associated with metastatic spinal cord compression
-- Developing and evaluating alternative device concepts against defined design criteria
-- Contributing to the design of a novel balloon kyphoplasty system
-- Considering material selection, device functionality and manufacturing feasibility
-- Evaluating the design using Finite Element Method (FEM) analysis
-- Considering patient comfort, quality of life, risks and potential complications
-- Assessing regulatory and ethical considerations relevant to medical device development
-- Developing recommendations for future refinement and validation
+## My individual work
 
-## Final Design
+Alongside the group design, I wrote a critical review of current fracture fixation: fixation methods, biomaterials, bone grafts, and the problems that still cause implants to fail, such as non-union, stress shielding and infection. It gave the clinical and engineering background for the design work.
 
-The proposed device incorporated:
+## Results
 
-- A biodegradable balloon using PLGA copolymer or PLA
-- Aerosolised bone-cement delivery
-- A hydrogel coating
-- A stainless-steel stent
+- Under compressive loading, the FEM model showed a maximum total deformation of about **0.0034 mm**, suggesting the device would keep the vertebra stable.
+- The report sets out what would still need to be done before the design could go further, including more detailed testing and validation.
 
-The design was intended to improve vertebral height restoration and stability while reducing risks associated with uncontrolled cement delivery.
-
-## Project Visuals
-
-### Proposed Spinal Device
-
-Model of the proposed balloon kyphoplasty device positioned within the L1 vertebra.
-
-![Proposed spinal device](figures/proposed-spinal-device.png)
-
-### FEM Model
-
-Cross-sectional model showing the vertebra, balloon tamp, stent and bone cement used for the finite element analysis.
+![Proposed spinal device in the L1 vertebra](figures/proposed-spinal-device.png)
 
 ![FEM model cross-section](figures/fem-model-cross-section.png)
 
-### FEM Validation Result
-
-Total deformation result from the FEM analysis under the applied compressive loading condition.
-
 ![FEM total deformation](figures/fem-total-deformation.png)
 
-## Initial Validation
+## Files
 
-Finite Element Method analysis was used to assess deformation and structural behaviour under loading.
-
-The FEM simulation produced a maximum total deformation of **0.0034041 mm** under the applied compressive loading condition.
-
-## Key Considerations
-
-The project considered:
-
-- Clinical need and patient requirements
-- Medical device design
-- Biomechanics
-- Material selection
-- Finite Element Analysis
-- Manufacturing feasibility
-- Patient safety
-- Risk mitigation
-- Regulatory considerations
-- Ethical considerations
-
-## Skills Demonstrated
-
-- Medical device design
-- Biomedical engineering
-- Finite Element Analysis
-- Engineering design evaluation
-- Material selection
-- Clinical problem solving
-- Risk assessment
-- Research and evidence evaluation
-- Technical communication
-- Teamwork and design development
-
-## Literature Review
-
-As part of the project, I conducted an individual critical review of the state of the art in fracture fixation. The review examined current fixation methods, biomaterials, bone grafts, challenges affecting fracture healing, experimental testing of fixation devices, and emerging technologies.
-
-The review identified persistent challenges including non-union, stress shielding, implant failure and infection, while highlighting the need for improved biomaterials, fixation strategies and long-term validation. These findings provided broader clinical and engineering context for the subsequent spinal implant design work.
-
-## Project Materials
-
-- [View Literature Review](./fracture-fixation-literature-review.pdf)
-- [View Spinal Implant Design Report](./spinal-implant-design-report.pdf)
+- [Group design report](./spinal-implant-design-report.pdf) (team members' names removed for privacy)
+- [My fracture fixation literature review](./fracture-fixation-literature-review.pdf)
