@@ -56,7 +56,7 @@ Total deformation result from the FEM analysis under the applied compressive loa
 
 Finite Element Method analysis was used to assess deformation and structural behaviour under loading.
 
-The FEM simulation produced a maximum total deformation of **0.0034041 mm** under the applied compressive loading condition. :contentReference[oaicite:1]{index=1}
+The FEM simulation produced a maximum total deformation of **0.0034041 mm** under the applied compressive loading condition.
 
 ## Key Considerations
 
